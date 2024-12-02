@@ -2,6 +2,8 @@
 
 Quickly generate secure random string.
 
+See https://github.com/bddjr/cryptorandstr
+
 ## Get
 
 ```
